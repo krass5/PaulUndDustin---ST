@@ -7,7 +7,7 @@ public class Dummy {
 		}else if(a < b){
 			System.out.println("a ist kleiner als b!");
 		}else if(a == b){
-			System.out.println("a und b sind gleich!");
+			System.out.println("a und b sind gleich! Und das hier ist uns auch total Wayne -.- !");
 		}
 	}
 }
